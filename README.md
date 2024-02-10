@@ -5,4 +5,4 @@ This is a simple workflow which will provide instantly the weekday of a given da
 
 The workflow configuration (version 1.2 and later) allows you to select the European date format (dd/mm/yyyy), the US date format (mm/dd/yyyy) or the ISO date format (yyyy-mm-dd).
 
-The workflow does nothing more nor less than that.  If you type a wayward date you will be prompted simply to enter a date in the correct format.
+The workflow does nothing more nor less than that.  If you type a wayward date as from version 1.3 you will be prompted simply to enter a date in the correct format.
